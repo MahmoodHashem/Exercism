@@ -3,3 +3,8 @@ class HelloWorld {
     return "Hello, World!";
   }
 }
+
+
+void main(){
+  var x = int.parse(source)
+}
