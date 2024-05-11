@@ -23,6 +23,7 @@ int score(String string) {
   string = string.toLowerCase();
   var arr = string.split('');
 
+
   var one = arr.where((char) => 'aeioulnrst'.contains(char)).toList();
   var two = arr.where((char) => 'dg'.contains(char)).toList();
   var three = arr.where((char) => 'bcmp'.contains(char)).toList();
