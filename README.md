@@ -22,6 +22,8 @@ This repository contains exercises completed from Exercism in JavaScript and Dar
    - Array Destructuring and rest/spread operator(...)
 8. [Elyses Looping Enchantments](https://github.com/MahmoodHashem/Exercism/tree/main/JavaScript/elyses-looping-enchantments)
    - Variuos Looping Methods   
+9. [Amusement Park](https://github.com/MahmoodHashem/Exercism/tree/main/JavaScript/amusment-park)
+   - Learn About null and undefind and how to handle them using Optional Chaining and Nullish Coalescing
 
 ## Dart Exercises
 1. Leap Year
