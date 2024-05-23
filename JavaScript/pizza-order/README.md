@@ -1,9 +1,3 @@
-# Pizza Order
-
-Welcome to Pizza Order on Exercism's JavaScript Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
-If you get stuck on the exercise, check out `HINTS.md`, but try and solve it without using those first :)
-
 ## Introduction
 
 The ability for something to be defined in terms of itself is called recursion.
