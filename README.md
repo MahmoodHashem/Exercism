@@ -32,9 +32,10 @@ This repository contains exercises completed from Exercism in JavaScript and Dar
 
 ## Exercises
 
-| #   | Title                                     | Solution |
-| --- | ----------------------------------------- | -------- |
-| 01  | [ Two Fer](https://exercism.org/tracks/javascript/exercises/two-fer) |[JavaScript](https://github.com/MahmoodHashem/Exercism/tree/main/exercises/javascript/two-fer)
+| #   | Title                                     | Solution | Difficulty |
+| --- | ----------------------------------------- | -------- | ---------- |
+| 01  | [ Two Fer](https://exercism.org/tracks/javascript/exercises/two-fer) |[JavaScript](https://github.com/MahmoodHashem/Exercism/tree/main/exercises/javascript/two-fer) | Easy |
+| 02  | [ Resistor color](https://exercism.org/tracks/javascript/exercises/resistor-color) |[JavaScript](https://github.com/MahmoodHashem/Exercism/tree/main/exercises/javascript/resistor-color) | Easy |
 
 ## Dart Exercises
 
