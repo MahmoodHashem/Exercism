@@ -1,8 +1,3 @@
-# Resistor Color Duo
-
-Welcome to Resistor Color Duo on Exercism's JavaScript Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
-
 ## Instructions
 
 If you want to build something using a Raspberry Pi, you'll probably use _resistors_.
@@ -17,8 +12,8 @@ Each band has a position and a numeric value.
 The first 2 bands of a resistor have a simple encoding scheme: each color maps to a single number.
 For example, if they printed a brown band (value 1) followed by a green band (value 5), it would translate to the number 15.
 
-In this exercise you are going to create a helpful program so that you don't have to remember the values of the bands.
-The program will take color names as input and output a two digit number, even if the input is more than two colors!
+**In this exercise you are going to create a helpful program so that you don't have to remember the values of the bands.**
+**The program will take color names as input and output a two digit number, even if the input is more than two colors!**
 
 The band colors are encoded as follows:
 

@@ -3,6 +3,23 @@
 // convenience to get you started writing code faster.
 //
 
-export const decodedValue = () => {
-  throw new Error('Remove this statement and implement this function');
+const COLORS = ['black',
+'brown',
+'red',
+'orange',
+'yellow',
+'green',
+'blue',
+'violet',
+'grey',
+'white'];
+
+ export const decodedValue = (colors) => {
+  let number =[]; 
+
+  colors.slice(0,2).forEach(color => {
+    number.push(COLORS.indexOf(color)); 
+  });
+  return parseInt(number.join(''));
 };
+
