@@ -3,8 +3,8 @@
 // convenience to get you started writing code faster.
 //
 
-export const colorCode = () => {
-  tcolor = color.toLowerCase(); 
+export const colorCode = color => {
+  color = color.toLowerCase(); 
 
   switch(color){
     case 'black': return 0; 
@@ -32,3 +32,10 @@ export const COLORS = ['black',
 'violet',
 'grey',
 'white'];
+
+
+//After mentoring 
+const colorCode = color => {
+  return COLORS.indexOf(color)
+  
+};
