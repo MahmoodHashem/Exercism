@@ -1,8 +1,3 @@
-# RNA Transcription
-
-Welcome to RNA Transcription on Exercism's JavaScript Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
-
 ## Introduction
 
 You work for a bioengineering company that specializes in developing therapeutic solutions.

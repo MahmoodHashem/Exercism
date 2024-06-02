@@ -38,6 +38,7 @@ This repository contains exercises completed from Exercism in JavaScript and Dar
 | 02  | [ Resistor color](https://exercism.org/tracks/javascript/exercises/resistor-color) |[JavaScript](https://github.com/MahmoodHashem/Exercism/tree/main/exercises/javascript/resistor-color) | Easy |
 | 03  | [ Resistor color Duo](https://exercism.org/tracks/javascript/exercises/resistor-color-duo) |[JavaScript](https://github.com/MahmoodHashem/Exercism/tree/main/exercises/javascript/resistor-color-duo) | Easy |
 | 04  | [ Gigasecond](https://exercism.org/tracks/javascript/exercises/gigasecond) |[JavaScript](https://github.com/MahmoodHashem/Exercism/tree/main/exercises/javascript/gigasecond) | Easy |
+| 05  | [ Gigasecond](https://exercism.org/tracks/javascript/exercises/rna-transcription) |[JavaScript](https://github.com/MahmoodHashem/Exercism/tree/main/exercises/javascript/transcription) | Easy |
 
 ## Dart Exercises
 
