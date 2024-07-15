@@ -27,8 +27,7 @@ This repository contains exercises completed from Exercism in JavaScript and Dar
 9. [Amusement Park](https://github.com/MahmoodHashem/Exercism/tree/main/JavaScript/amusment-park)
    - Learn About null and undefind and how to handle them using Optional Chaining and Nullish Coalescing
 10. [Pizza Order](https://github.com/MahmoodHashem/Exercism/tree/main/JavaScript/pizza-order)
-
-- Practice Recursion
+   - Practice Recursion
 
 ## Exercises
 

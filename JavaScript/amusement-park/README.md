@@ -1,8 +1,6 @@
 # Amusement Park
 
 Welcome to Amusement Park on Exercism's JavaScript Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
-If you get stuck on the exercise, check out `HINTS.md`, but try and solve it without using those first :)
 
 ## Introduction
 
@@ -30,7 +28,7 @@ name === null;
 
 ## Undefined
 
-> A variable that has not been assigned a value is of type `undefined`.<sup>1</sup>
+> A variable that has not been assigned a value is of type `undefined`.`<sup>`1`</sup>`
 
 That means while `null` represents an empty value (but still a value), `undefined` represents the total absence of a value. 🤯
 
@@ -102,9 +100,7 @@ amount = amount ?? 1;
 
 [1] Undefined, MDN. (2021). https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined (accessed June 4, 2021).
 
-[mdn-strict-equality]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
-
-## Instructions
+## Instructions of the exercise 
 
 It is your job to provide and maintain parts of the IT system of an amusement park.
 In particular, you are responsible for the program that manages visitors and tickets.
@@ -251,3 +247,5 @@ gtcVersion(visitorOld);
 ### Created by
 
 - @junedev
+
+[mdn-strict-equality]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
