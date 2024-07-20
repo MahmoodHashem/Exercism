@@ -1,7 +1,6 @@
 # Pangram
 
 Welcome to Pangram on Exercism's JavaScript Track.
-If you need help running the tests or submitting your code, check out `HELP.md`.
 
 ## Introduction
 
