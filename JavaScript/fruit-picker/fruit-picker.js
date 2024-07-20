@@ -16,6 +16,7 @@ import { order } from './grocer';
  * @return void
  */
 export function onSuccess() {
+  return notify({message: "SUCCESS"}); 
 }
 
 /**
@@ -23,6 +24,7 @@ export function onSuccess() {
  */
 export function onError() {
 
+  return notify({message: "ERROR"}); 
 
 }
 
@@ -33,6 +35,7 @@ export function onError() {
  * @return void
  */
 export function orderFromGrocer(query, onSuccessCallback, onErrorCallback) {
+    return order(query, onSuccessCallback, onErrorCallback); 
 }
 
 /**
@@ -41,4 +44,5 @@ export function orderFromGrocer(query, onSuccessCallback, onErrorCallback) {
  * @return void
  */
 export function postOrder(variety, quantity) {
+  return orderFromGrocer({variety, quantity}, onSuccess, onError)
 }
