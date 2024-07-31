@@ -4,5 +4,17 @@
 //
 
 class Matrix {
-
+    constructor(str) {
+        this.matrix = str.split('\n')
+      }
+    
+      get rows() {
+        return this.matrix.map(row => row.split(" ").map(Number))
+      }
+    
+      get columns() {
+        return this.rows[0].map((e, i) => {
+          return this.rows.map(row => row[i])
+        })
+      }
 }
